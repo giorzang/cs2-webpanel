@@ -45,7 +45,7 @@
 
 
 | Map_actions |
-
+|-|
 
 #### Example match_config.json
 ```javascript
